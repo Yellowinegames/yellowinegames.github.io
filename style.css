@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: "Saira Stencil One";
+    
+}
+
+img {
+    width: 20%;
+}
+
+h1 {
+    color: #f8b500;
+    font-size: 100px;
+}
+
+#content {
+    text-align: center;
+    width: 50%;
+    top:50%;
+    left: 50%;
+    transform: translate3d(-50%,-50%, 0);
+    position: absolute;
+    
+}
+
+.letter {
+    color: #c48f00;
+}
